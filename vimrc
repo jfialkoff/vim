@@ -6,6 +6,8 @@ set et
 set hlsearch
 set incsearch
 set sw=4
+set ts=4
 set textwidth=79
 set acd
 set number
+set formatoptions+=t
