@@ -2,8 +2,8 @@
 	path = bundle/command-t
 	url = git://git.wincent.com/command-t.git
 [submodule "vim-surround"]
-	path = vim-surround
+	path = bundle/vim-surround
 	url = https://github.com/tpope/vim-surround
 [submodule "supertab"]
-	path = supertab
+	path = bundle/supertab
 	url = https://github.com/ervandew/supertab

@@ -8,3 +8,4 @@ set incsearch
 set sw=4
 set textwidth=79
 set acd
+set number
